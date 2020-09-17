@@ -1,0 +1,7 @@
+{
+  "name": "chat-gallery",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

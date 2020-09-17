@@ -1,0 +1,31 @@
+{
+  "name": "chat-app-ionic",
+  "version": "1.0.0",
+  "description": "a chat application using ionic and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdsalazaraguirre/ChatAppIonic.git"
+  },
+  "keywords": [
+    "app",
+    "ionic",
+    "socket.io",
+    "testing",
+    "stream",
+    "chat"
+  ],
+  "author": "francisco salazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdsalazaraguirre/ChatAppIonic/issues"
+  },
+  "homepage": "https://github.com/fdsalazaraguirre/ChatAppIonic#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
